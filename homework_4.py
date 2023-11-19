@@ -88,6 +88,6 @@
 #        if temp in list(range(5, 10))+[0]:
 #                print(cows, 'кооров')
 #        if temp == 1:
-#                print(cows, 'корова')
+#                print(cows, 'korova')
 #        if temp in range(2, 5):
-#                print(cows, 'коровы')
+#                print(cows, 'korovy')
