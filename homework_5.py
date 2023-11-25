@@ -100,7 +100,20 @@
 #    if dict[i] == word:
 #        print(i)
 
-
+#Задача10
+#phone_book = {"Alice": "+4(908)273-22-42"}
+#while True:
+#    query = input()
+#    if query == '.':
+#        break
+#    query_list = query.split()
+#    name = query_list[0]
+#    if len(query_list) == 2:
+#        number = query_list[1]
+#        phone_book[name] = number
+#    elif name in phone_book:
+#        print(phone_book[name])
+#print(phone_book)
 
 
 
