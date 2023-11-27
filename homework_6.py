@@ -12,6 +12,9 @@
 #            print(i)
 #numbers()
 
+# list comprehension
+#print([numbers for numbers in range(100, 1000) if not numbers % 5 and not numbers % 3])
+
 
 #Задача3
 #def new_list():
